@@ -1,6 +1,8 @@
 # pyuniversalis
 A simple python class to access the FFXIV marketboard API Universalis. Only works by region at the moment and defaults to `North-America`
 
+Presently requires a folder at `./log/` relative to itself to store JSON responses.
+
 Example code:
 
 ```python
